@@ -1,0 +1,14 @@
+name: MCPlugin
+main: me.plugin.drakeofMinecraft.Main
+version: 1.0
+commands:
+    Hello:
+       description: It replies with a greeting to the player!
+       usage: /<command>
+    Damage:
+       description: Damages player by 3 health.
+       usage: /<command>
+    CurrentWeather:
+       description: Replies with current weather for the player
+       usage: /<command>
+       
