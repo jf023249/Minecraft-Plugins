@@ -1,0 +1,4 @@
+name: EventHandle
+version: 1.0
+description: Test Plugin
+main: me.EventHandle.EventHandle
